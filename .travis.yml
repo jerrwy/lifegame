@@ -3,6 +3,7 @@ node_js:
     - "6"
 install:
     - npm install
+    - npm install -g codecov istanbul
 test:
     - npm run test
 coverage:
