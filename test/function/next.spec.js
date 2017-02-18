@@ -1,4 +1,4 @@
-const {next} = require('../function')
+const {next} = require('../../function')
 
 describe('next function', () => {
     
