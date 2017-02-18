@@ -1,4 +1,4 @@
-# lifegame
+# lifegame(生命游戏)
 ![test](https://travis-ci.org/moyunchen/lifegame.svg?branch=master)
 
 每个格子的生死遵循下面的原则：
