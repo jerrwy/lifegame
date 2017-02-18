@@ -1,4 +1,4 @@
-# lifegame(生命游戏) [![Build Status](https://travis-ci.org/moyunchen/lifegame.svg?branch=master)](https://travis-ci.org/moyunchen/lifegame) 
+# lifegame(生命游戏) [![Build Status](https://travis-ci.org/moyunchen/lifegame.svg?branch=master)](https://travis-ci.org/moyunchen/lifegame) [![Coveage](https://img.shields.io/codecov/c/github/moyunchen/lifegame/master.svg)](https://codecov.io/gh/moyunchen/lifegame)
 
 每个格子的生死遵循下面的原则：
 
