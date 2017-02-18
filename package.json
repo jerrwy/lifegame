@@ -4,7 +4,8 @@
   "description": "lifegame",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/_mocha ./test/function/*.spec.js"
+    "test": "./node_modules/mocha/bin/_mocha ./test/function/*.spec.js",
+    "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha -- -R spec -t 10000 ./test/function/*.spec.js"
   },
   "repository": {
     "type": "git",

@@ -4,4 +4,6 @@ node_js:
 install:
     - npm install
 test:
-    - npm test
+    - npm run test
+coverage:
+    - npm run coverage
