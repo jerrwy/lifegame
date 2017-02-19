@@ -1,6 +1,6 @@
 {
   "name": "lifegame",
-  "version": "v1.0.3",
+  "version": "v1.0.4",
   "description": "lifegame",
   "main": "index.js",
   "scripts": {
