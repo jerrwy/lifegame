@@ -4,7 +4,7 @@ module.exports = {
      * @param status 细胞当前状态 0:死 1:活
      * @param count 细胞当前周围的存活细胞数量
      */
-    next_cell_status: (status,count) =>{
+    nextCellStatus: (status,count) =>{
         if(count == 3) return 1
         if(count == 2) return status
         return 0
