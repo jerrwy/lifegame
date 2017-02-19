@@ -19,3 +19,10 @@ const map = [[1,1,1],[1,1,1],[1,1,1]]
 const newmap = nextMap(map)
 console.log(newmap) // newmap tobe [[1,0,1],[0,0,0],[1,0,1]]
 ```
+
+
+``` javascript
+const {nextMap} = require('lifegame')
+const newmap = initMap(3,4)
+console.log(newmap) // newmap tobe 3*4 map
+```
