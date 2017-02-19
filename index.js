@@ -1,5 +1,5 @@
-const {next} = require('./function')
+const {nextMap} = require('./function')
 
 module.exports = {
-    next
+    nextMap
 }

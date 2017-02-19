@@ -10,3 +10,12 @@
 3. 在其它情况下，该细胞为死（即该细胞若原先为生，则转为死，若原先为死，则保持不变）
 
 用法:
+
+> npm install lifegame
+
+``` javascript
+const {nextMap} = require('lifegame')
+const map = [[1,1,1],[1,1,1],[1,1,1]]
+const newmap = nextMap(map)
+console.log(newmap) // newmap tobe [[1,0,1],[0,0,0],[1,0,1]]
+```
